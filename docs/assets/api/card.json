@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Blog post title",
+        "description": "Some quick example text to build on the card title and make up thebulk of the card's content.",
+        "categorey": "News",
+        "imagePath": "https://dummyimage.com/600x350/ced4da/6c757d"
+    },
+    {
+        "id": 2,
+        "title": "Another blog post title",
+        "description": "This text is a bit longer to illustrate the adaptive height of each card. Some quick example text to build on the card title and make up the bulk of the card's content",
+        "categorey": "Media",
+        "imagePath": "https://dummyimage.com/600x350/ced4da/6c757d"
+    },
+    {
+        "id": 3,
+        "title": "The last blog post title is a little bit longer than the others",
+        "description": "Some more quick example text to build on the card title and make up the bulk of the card's content.",
+        "categorey": "News",
+        "imagePath": "https://dummyimage.com/600x350/ced4da/6c757d"
+    }
+]
